@@ -1,0 +1,14 @@
+title: <p align="center"> Kitipat Wararungsriroj </p>
+
+logo: "asset/S__69017665_0.jpg"
+
+description: |
+  <p align="center">
+    <a href="asset/Resume (1).pdf">Resume</a> |
+    <a href="https://www.linkedin.com/in/kitipat-wararungsriroj-129881337">LinkedIn</a> |
+    <a href="https://github.com/KitipatWararungsriroj">GitHub</a>
+  </p>
+
+  <p align="justify">
+       I am a recent Statistics graduate (GPA 3.44, Second-Class Honors) with passionate about Data Analytics, Machine Learning, and Business Intelligence. Skilled in Python, SQL, Excel, and Power BI with experience in developing data-driven projects and generating actionable business insights.
+theme: jekyll-theme-minimal
