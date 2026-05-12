@@ -24,6 +24,7 @@ Cumulative GPA: 3.44/4.00 (Second-Class Honors)<br>
 - Evaluated revenue, cost, and profit data to generate business insights for decision-making
 - Performed basic sales trend analysis and forecasting to support inventory management
 - Assisted in day-to-day business operations and reporting processes
+
 ---
 # Projects
 ---
