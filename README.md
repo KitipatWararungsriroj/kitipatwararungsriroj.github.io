@@ -39,6 +39,7 @@ Cumulative GPA: 3.44/4.00 (Second-Class Honors)<br>
 - Created an interactive Excel interface for user input and automated result generation
 - Applied VBA scripting to automate data processing and premium calculations
 
+![Vedio1](picture/ezgif.com-video-to-gif-converter.gif)
 
 # Exercise Type Classification using Machine Learning Techniques
 
