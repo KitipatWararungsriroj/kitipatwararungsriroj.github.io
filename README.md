@@ -50,6 +50,7 @@ Cumulative GPA: 3.44/4.00 (Second-Class Honors)<br>
 - Compared models using Accuracy, Precision, Recall, and F1-Score metrics
 - Random Forest achieved the best overall classification performance
 
+![Table1](picture/classification_table.png)
 
 # Customer Churn Prediction using Machine Learning
 
@@ -63,6 +64,7 @@ Cumulative GPA: 3.44/4.00 (Second-Class Honors)<br>
 - Identified key factors influencing churn, including customer tenure and customer service call frequency
 - Demonstrated how machine learning can support customer retention strategies and business decision-making
 
+![Table2](picture/churn_table.png)
 
 # Employment Status Prediction using Absorbing Markov Chain
 
@@ -75,6 +77,8 @@ Cumulative GPA: 3.44/4.00 (Second-Class Honors)<br>
 - Found that students with high CGPA and strong internship experience had the highest probability of employment
 - Identified internship experience as a significant factor in improving employment opportunities, even for students with average academic performance
 
+![Table3](picture/prob_table.png)
+![Pic1](picture/prob_graph.png)
 
 # Bike Rental Demand Forecasting using Machine Learning
 
@@ -90,7 +94,7 @@ Cumulative GPA: 3.44/4.00 (Second-Class Honors)<br>
   - R²: 0.94
 - Created visualizations comparing actual and predicted rental values to evaluate model accuracy
 
-
+![Pic2](picture/forecast.png)
 
 # Actor Influence Analysis using PageRank Algorithm
 
@@ -102,5 +106,8 @@ Cumulative GPA: 3.44/4.00 (Second-Class Honors)<br>
 - Calculated PageRank scores for the top 50 actors in the IMDb network dataset
 - Identified Robert De Niro as the actor with the highest influence score in the network
 - Demonstrated how network analysis can measure influence beyond the number of movie appearances alone
+
+![Pic3](picture/pagerank_chart.png)
+![Pic4](picture/pagerank_plot.png)
 
 ---
