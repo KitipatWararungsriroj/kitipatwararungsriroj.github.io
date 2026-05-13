@@ -82,7 +82,7 @@ Cumulative GPA: 3.44/4.00 (Second-Class Honors)<br>
 
 # Bike Rental Demand Forecasting using Machine Learning
 
-[![PDF](https://img.shields.io/badge/PDF-Paper-orange?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/KitipatWararungsriroj/kitipatwr.github.io/blob/d25a279d3abd7b0848513619a2a52f12fe1e233e/files/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%8A%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%83%E0%B8%8A%E0%B9%89%20ML.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Presentation-orange?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/KitipatWararungsriroj/kitipatwr.github.io/blob/d25a279d3abd7b0848513619a2a52f12fe1e233e/files/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%8A%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%83%E0%B8%8A%E0%B9%89%20ML.pdf)
 - Developed machine learning models to forecast bike rental demand based on environmental and time-related factors
 - Analyzed factors affecting bike rental behavior, including temperature, humidity, season, and time of day
 - Applied Random Forest Regressor and XGBoost Regressor for prediction tasks
