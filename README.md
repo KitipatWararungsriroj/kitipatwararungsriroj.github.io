@@ -28,7 +28,7 @@ Cumulative GPA: 3.44/4.00 (Second-Class Honors)<br>
 - Assisted in day-to-day business operations and reporting processes
 
 ---
-# Projects
+# Featured Projects
 ---
 # Insurance Premium Calculation using VBA
 
