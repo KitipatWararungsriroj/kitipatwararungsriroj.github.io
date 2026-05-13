@@ -107,8 +107,8 @@ Cumulative GPA: 3.44/4.00 (Second-Class Honors)<br>
 - Identified Robert De Niro as the actor with the highest influence score in the network
 - Demonstrated how network analysis can measure influence beyond the number of movie appearances alone
 
+![Pic5](picture/network_graph.png)
 ![Pic3](picture/pagerank_chart.png)
 ![Pic4](picture/pagerank_plot.png)
-![Pic5](picture/network_graph.png)
 
 ---
